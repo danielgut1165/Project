@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UIznx1M8RLmmrLRdF4M4leO0B2+gpMWfG40d9U3Nipk=",
+  "Source": "chess-api-signalR",
+  "BasePath": "_content/chess-api-signalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
